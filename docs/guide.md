@@ -1,3 +1,3 @@
 # Guide
 
-Setup instructions coming soon.
+Setup instructions coming.
